@@ -1,8 +1,9 @@
 # 💫 About Me:
 Cursando ensino superior em Análise e Desenvolvimento de Sistemas. <br>Quero colaborar em projetos mesmo que não seja remunerado para<br>fins de aprendizado.<br>estou em um nivel excelente em HTML e CSS, pronto para conhecer e<br>aprender sobre Javascript.
 
-#Projetos: 
-Painel de login: https://mikaelsystem.github.io/Projeto-login/
+# Projetos: <br/>
+Painel de login: https://mikaelsystem.github.io/Projeto-login/ <br/>
+Estudos: https://mikaelsystem.github.io/Estudos-Pessoais/
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mikaelwoliver) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fxstwolf@gmail.com) 
