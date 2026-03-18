@@ -3,7 +3,6 @@ Cursando ensino superior em Análise e Desenvolvimento de Sistemas. <br>Quero co
 
 # Projetos: <br/>
 Painel de login: https://mikaelsystem.github.io/Projeto-login/ <br/>
-Estudos: https://mikaelsystem.github.io/Estudos-Pessoais/
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mikaelwoliver) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fxstwolf@gmail.com) 
