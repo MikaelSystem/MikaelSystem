@@ -9,7 +9,7 @@
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas** no IFTM (Campus Patrocínio).
 - 🎨 Sólidos conhecimentos em **HTML5** e **CSS3**.
 - ⚙️ Atualmente aprofundando os estudos em **JavaScript** e lógica de programação.
-- 🎓 Medalha de Analista de Segurança Cibernética
+- 🎓 Também tenho conhecimentos em cibersegurança, com certificado e medalha
  <a href="https://www.credly.com/badges/dedcf43c-1c31-4cc4-8075-d99f4fe34090/public_url" target="_blank">
   <img src="./google-cybersecurity-professional-certificate-v2.png" width="150" alt="Google Cybersecurity Professional Certificate">
 </a>
@@ -24,6 +24,7 @@ Painel de login: https://mikaelsystem.github.io/Projeto-login/
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MikaelSystem&theme=calm&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 ![](https://nirzak-streak-stats.vercel.app/?user=MikaelSystem&theme=calm&hide_border=false)
+
 
 ## 🌐 Entre em contato, aberto a dúvidas, propostas, projetos e amizades:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mikaelwoliver) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fxstwolf@gmail.com) 
