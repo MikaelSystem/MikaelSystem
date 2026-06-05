@@ -1,7 +1,7 @@
 # Mikael Oliveira | Estudande de ADS | Hacking lover
 | 👨‍💻 Sobre Mim | 🛠️ Tech Stack |
 | :--- | :--- |
-| **Estudante de ADS no IFTM.** <br> Desenvolvedor focado em criar interfaces modernas, funcionais e eficientes. Busco constantemente aprimorar a lógica e a estrutura dos meus projetos. | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) |
+| **Estudante de ADS no IFTM.** <br> Desenvolvedor focado em criar interfaces modernas, funcionais e eficientes. Busco constantemente aprimorar a lógica e a estrutura dos meus projetos. | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) | 
 
 ---
 
@@ -12,6 +12,7 @@
 - 🎓 Também tenho conhecimentos em cibersegurança, com certificado e medalha
  <a href="https://www.credly.com/badges/dedcf43c-1c31-4cc4-8075-d99f4fe34090/public_url" target="_blank">
   <img src="./google-cybersecurity-professional-certificate-v2.png" width="150" alt="Google Cybersecurity Professional Certificate">
+  
 </a>
 
 ---
@@ -27,12 +28,15 @@ Meu porfólio: https://mikaelsystem.github.io/Portfolio/
 
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="100" />
+  
+  <img width="100" height="100" alt="Anime Girl GIF" src="https://github.com/user-attachments/assets/2dcb3afe-358d-4f6d-bf0b-295084e1636c" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" width="100" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" width="100"/>
-  
+  <img width="100" height="100" alt="Code Coding GIF by EscuelaDevRock" src="https://github.com/user-attachments/assets/5ef76263-3671-4a31-8918-8ef75dc14593"/>
+
   <br /> <img src="URL_DO_SEU_GIF_AQUI.gif" width="300" />
 </p>
+
 
 
 
