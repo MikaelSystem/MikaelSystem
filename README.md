@@ -22,8 +22,18 @@ Meu porfólio: https://mikaelsystem.github.io/Portfolio/
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MikaelSystem&theme=calm&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-![](https://nirzak-streak-stats.vercel.app/?user=MikaelSystem&theme=calm&hide_border=false)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/MikaelSystem?cardType=level&theme=flag-brazil&fontFamily=ABeeZee&preferLogin=false)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/MikaelIFTM?cardType=level&theme=flag-brazil&fontFamily=ABeeZee&preferLogin=false)](https://git.io/awesome-stats-card)
+
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="100" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" width="100" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" width="100"/>
+  
+  <br /> <img src="URL_DO_SEU_GIF_AQUI.gif" width="300" />
+</p>
+
 
 
 ## 🌐 Entre em contato, aberto a dúvidas, propostas, projetos e amizades:
