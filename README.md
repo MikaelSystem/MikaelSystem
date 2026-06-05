@@ -38,7 +38,7 @@ Meu porfólio: https://mikaelsystem.github.io/Portfolio/
 <p align="center">
 
  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/MikaelSystem?cardType=level&theme=flag-brazil&fontFamily=ABeeZee&preferLogin=false)](https://git.io/awesome-stats-card)
-<img width="400" height="200" alt="Mrsuicidesheep GIF by Seeking Blue" src="https://github.com/user-attachments/assets/533767a2-d2fb-460e-8194-1b660e45003c" />
+<img width="350" height="200" alt="Mrsuicidesheep GIF by Seeking Blue" src="https://github.com/user-attachments/assets/533767a2-d2fb-460e-8194-1b660e45003c" />
 </p>
  <br>
  <p>
