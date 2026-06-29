@@ -8,8 +8,8 @@
 ### 🚀 Estudos & Evolução
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas** no IFTM (Campus Patrocínio).
 - 🎨 Sólidos conhecimentos em **HTML5** e **CSS3**.
-- ⚙️ Atualmente aprofundando os estudos em **JavaScript** e lógica de programação.
-- 🎓 Também tenho conhecimentos em cibersegurança, com certificado e medalha.
+- ⚙️ Atualmente aprofundando os estudos em **JavaScript**, lógica de programação e hacker ético.
+- 🎓 Também tenho conhecimentos em cibersegurança, redes de computadores com certificado e medalha.
 
 <p align="center">
  <a href="https://www.credly.com/badges/dedcf43c-1c31-4cc4-8075-d99f4fe34090/public_url" target="_blank">
