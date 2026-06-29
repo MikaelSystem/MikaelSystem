@@ -12,6 +12,8 @@
 - 🎓 Também tenho conhecimentos em cibersegurança, redes de computadores com certificado e medalha.
 
 <p align="center">
+  <a href="https://www.credly.com/badges/0f009f3b-42a1-4377-be30-860485558085/public_url" target="_blank">
+ <img width="140" height="140" alt="networking-basics" src="https://github.com/user-attachments/assets/827ac260-e65a-4e08-8805-abab1af44be5" />
  <a href="https://www.credly.com/badges/dedcf43c-1c31-4cc4-8075-d99f4fe34090/public_url" target="_blank">
   <img src="./google-cybersecurity-professional-certificate-v2.png" width="140" alt="Google Cybersecurity Professional Certificate">
   <img width="140" height="140" alt="15926553361592655241firewall2" src="https://github.com/user-attachments/assets/73f05ea6-6194-45a5-a20e-9e1b2a30099b" />
