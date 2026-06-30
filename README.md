@@ -9,7 +9,7 @@
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas** no IFTM (Campus Patrocínio).
 - 🎨 Sólidos conhecimentos em **HTML5** e **CSS3**.
 - ⚙️ Atualmente aprofundando os estudos em **JavaScript**, lógica de programação e hacker ético.
-- 🎓 Também tenho conhecimentos em cibersegurança, redes de computadores com certificado e medalha.
+- 🎓 Certificado em Cibersegurança e Redes de computadores certificado pela **CISCO**.
 
 <p align="center">
   <a href="https://www.credly.com/badges/0f009f3b-42a1-4377-be30-860485558085/public_url" target="_blank">
