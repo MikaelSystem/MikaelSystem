@@ -25,12 +25,12 @@
 - ☢️ **JavaScript**, lógica de programação, Front-End.
 </p>
 
+---
 
 
-# Projetos: <br/>
-Meu porfólio: https://mikaelsystem.github.io/Portfolio/
 
-# 💻 Tech Stack:
+
+# 💻 More Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 
 # 📊 GitHub Stats:
@@ -48,6 +48,9 @@ Meu porfólio: https://mikaelsystem.github.io/Portfolio/
   <img width="100" height="100" alt="Code Coding GIF by EscuelaDevRock" src="https://github.com/user-attachments/assets/5ef76263-3671-4a31-8918-8ef75dc14593"/>
 
 </p>
+
+# Projeto HTML & CSS: <br/>
+Meu porfólio: https://mikaelsystem.github.io/Portfolio/
 
 ## 🌐 Entre em contato, aberto a dúvidas, propostas, projetos e amizades:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mikaelwoliver) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fxstwolf@gmail.com) 
