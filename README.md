@@ -5,6 +5,10 @@
 
 ---
 
+>''Em verdade, há tanta diferença de como se vive e como se deveria viver,
+>que aquele que abandone o que se faz por aquilo que se deveria fazer,
+>aprenderá antes o caminho de sua ruína do que o de sua preservação.'' ~Maquiavel
+
 ### 🚀 Estudos & Evolução
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas** no IFTM (Campus Patrocínio).
 - 🎨 Sólidos conhecimentos em **HTML5** e **CSS3**.
